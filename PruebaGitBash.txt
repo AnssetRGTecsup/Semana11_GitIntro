@@ -1,3 +1,0 @@
-HolaMundo desde GitBash
-
-Commit 2
